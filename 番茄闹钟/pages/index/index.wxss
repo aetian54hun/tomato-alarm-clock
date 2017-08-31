@@ -1,0 +1,58 @@
+.t1 {
+  font-size:30rpx;
+  font-weight:900;
+  text-align: center;
+  color:#333333;
+  padding:82rpx 0 16rpx 0;
+  font-family: 苹方; 
+}
+
+.t2 {
+  font-size:26rpx;
+  text-align: center;
+  color: #999999;
+  font-family: 苹方;
+  padding-bottom:50rpx; 
+}
+
+.big-box{
+      display:flex;
+      flex-direction: row;
+      flex-wrap:wrap;
+      justify-content: center;
+} 
+
+.box1 {
+	    width:64rpx;
+		  padding:45px ; 
+      font-size:30rpx;  
+      font-family:苹方;
+      color:#333333;
+    
+
+} 
+
+.pic1{
+	     width:64rpx;
+       height:64rpx; 
+}       
+    
+.bb1{
+  border-bottom:1px solid #0000ff;
+}    
+.bb2{
+  border-bottom:1px solid #eeeeee;
+}   
+.bb3{
+  border-right:1px solid #eeeeee;
+}    
+
+.t3{
+  text-align:center;
+  border:1px solid red;
+  width:300rpx;
+  margin:50rpx auto 0 auto;
+  font-size:36rpx;
+  padding:30rpx 0 30rpx 0;
+  border-radius: 100rpx;
+}

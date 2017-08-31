@@ -1,0 +1,88 @@
+<!--  -->
+
+
+<view class="t1">
+   <text>
+     选择一个任务
+   </text> 
+</view>
+
+<view class="t2">
+    < text >
+     在接下来的25分钟，专注做这件事
+    </text>
+</view>
+
+
+<view class="big-box" >
+    
+
+    <view class="box1,bb1,bb2,bb3">
+   
+        <image src="/image/工作.jpg" class="pic1">
+        </image>
+
+        <text> 
+          工作
+        </text>
+    </view>
+
+    <view class="box1,bb2,bb3">
+   
+        <image src="/image/学习.png" class="pic1">
+        </image>
+
+        <text> 
+          学习
+        </text>
+    </view>
+
+    <view class="box1,bb2">
+   
+        <image src="/image/思考.png" class="pic1">
+        </image>
+
+        <text> 
+         思考
+        </text>
+     
+    </view>
+    
+    <view class="box1,bb3">
+   
+        <image src="/image/写作.png" class="pic1">
+        </image>
+
+        <text> 
+        写作
+        </text>
+     
+    </view>
+    
+    <view class="box1,bb3">
+   
+        <image src="/image/运动.png" class="pic1">
+        </image>
+
+        <text> 
+         运动
+        </text>
+     
+    </view>
+    
+    <view class="box1">
+   
+        <image src="/image/阅读.png" class="pic1">
+        </image>
+
+        <text> 
+         阅读
+        </text>
+     
+    </view>
+
+</view>
+
+<view class="t3">
+      开始计时
+</view>
