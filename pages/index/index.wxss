@@ -3,7 +3,7 @@
   font-weight:900;
   text-align: center;
   color:#333333;
-  padding:82rpx 0 16rpx 0;
+  padding:40rpx 0 10rpx 0;
   font-family: 苹方; 
 }
 
@@ -12,7 +12,7 @@
   text-align: center;
   color: #999999;
   font-family: 苹方;
-  padding-bottom:50rpx; 
+  padding-bottom:20rpx; 
 }
 
 .big-box{
@@ -24,7 +24,7 @@
 
 .box1 {
 	    width:64rpx;
-		  padding:45px ; 
+		  padding:30px ; 
       font-size:30rpx;  
       font-family:苹方;
       color:#333333;
@@ -49,10 +49,29 @@
 
 .t3{
   text-align:center;
-  border:1px solid red;
+  border:1px solid #999999;
   width:300rpx;
-  margin:50rpx auto 0 auto;
+  margin:40rpx auto 0 auto;
   font-size:36rpx;
-  padding:30rpx 0 30rpx 0;
+  padding:15rpx 0 15rpx 0;
   border-radius: 100rpx;
+  color:#52596b;
+}
+.w1{
+  border-bottom: 2px solid #4664FF;
+}
+.w2{
+  border-bottom: 2px solid #3DD545;
+}
+.w3{
+  border-bottom: 2px solid #FF690F;
+}
+.w4{
+  border-bottom: 2px solid #8EE0FF;
+}
+.w5{
+  border-bottom: 2px solid #C554FF;
+}
+.w6{
+  border-bottom: 2px solid #FD3211;
 }

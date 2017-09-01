@@ -17,7 +17,9 @@
 <view class="big-box" >
     
 
-    <view class="box1,bb1,bb2,bb3">
+    <view 
+    data-id="1"
+    class="box1,bb2,bb3,{{aaa==1 ? 'w1':''}}" bindtap="fff">
    
         <image src="/image/工作.jpg" class="pic1">
         </image>
@@ -27,7 +29,9 @@
         </text>
     </view>
 
-    <view class="box1,bb2,bb3">
+    <view 
+     data-id="2"
+    class="box1,bb2,bb3,{{aaa==2 ? 'w2':''}}"bindtap="fff" >
    
         <image src="/image/学习.png" class="pic1">
         </image>
@@ -37,7 +41,9 @@
         </text>
     </view>
 
-    <view class="box1,bb2">
+    <view 
+     data-id="3"
+    class="box1,bb2,{{aaa==3 ? 'w3':''}}" bindtap="fff">
    
         <image src="/image/思考.png" class="pic1">
         </image>
@@ -48,7 +54,9 @@
      
     </view>
     
-    <view class="box1,bb3">
+    <view
+     data-id="4"
+    class="box1,bb3,{{aaa==4 ? 'w4':''}}"bindtap="fff" >
    
         <image src="/image/写作.png" class="pic1">
         </image>
@@ -59,7 +67,9 @@
      
     </view>
     
-    <view class="box1,bb3">
+    <view 
+     data-id="5"
+    class="box1,bb3,{{aaa==5 ? 'w5':''}}" bindtap="fff">
    
         <image src="/image/运动.png" class="pic1">
         </image>
@@ -70,7 +80,9 @@
      
     </view>
     
-    <view class="box1">
+    <view 
+     data-id="6"
+    class="box1,{{aaa==6 ? 'w6':''}}" bindtap="fff">
    
         <image src="/image/阅读.png" class="pic1">
         </image>

@@ -1,0 +1,2 @@
+<view bindtap="change">变变变</view>
+{{ b==1 ? 100:200 }}

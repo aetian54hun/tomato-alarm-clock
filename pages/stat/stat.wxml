@@ -1,0 +1,12 @@
+<!--pages/stat/stat.wxml-->
+
+<view class="classname">
+
+<text class="t1">
+今日番茄数
+</text>
+<text class="t2">
+累计番茄数
+</text>
+
+</view>
